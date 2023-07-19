@@ -11,6 +11,9 @@
 
 ### 👨‍💻About Me :
 I am a Computer Science and Engineering student from Portugal <img src="https://media.giphy.com/media/AfuIjJ0aq4UNrtlloC/giphy.gif" width="20">
+
+### 🍃Hobbies : 
+- ✨ Working out
 ---
 
 ### :fire: My Stats :
