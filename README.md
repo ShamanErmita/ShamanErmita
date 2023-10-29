@@ -7,10 +7,10 @@
   <img src="https://media.giphy.com/media/xUPGchAIaUs1cGL0S4/giphy.gif" width="600" height="300"/>
 </div>
 
-### 👨‍💻About Me :
+# 👨‍💻About Me :
 I am a Computer Science and Engineering student from Portugal <img src="https://media.giphy.com/media/AfuIjJ0aq4UNrtlloC/giphy.gif" width="20">
 
-### 🐱‍🐉Hobbies : 
+# 🐱‍🐉Hobbies : 
 - Working out
 
 # 💻 Tech Stack:
