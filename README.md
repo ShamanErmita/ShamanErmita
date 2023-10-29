@@ -23,7 +23,8 @@ I am a Computer Science and Engineering student from Portugal <img src="https://
 ![](https://github-profile-trophy.vercel.app/?username=ShamanErmita&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Quotes
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ever since I was a child I have had this instinctive urge for expansion and growth. To me, the function and duty of a quality human being is the sincere and honest development of one's potential.&author=BruceLee )](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ever%20since%20I%20was%20a%20child%20I%20have%20had%20this%20instinctive%20urge%20for%20expansion%20and%20growth.%20To%20me,%20the%20function%20and%20duty%20of%20a%20quality%20human%20being%20is%20the%20sincere%20and%20honest%20development%20of%20one's%20potential.&author=BruceLee)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ---
 <p align="center">
