@@ -25,4 +25,9 @@ I am a Computer Science and Engineering student from Portugal <img src="https://
 ### ✍️ Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
----                                                                      [![](https://visitcount.itsvg.in/api?id=ShamanErmita&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+<p align="center">
+  <a href="https://visitcount.itsvg.in" target="_blank">
+    <img src="https://visitcount.itsvg.in/api?id=ShamanErmita&icon=0&color=0" alt="Visit Counter">
+  </a>
+</p>
