@@ -23,9 +23,6 @@ I am a Computer Science and Engineering student from Portugal <img src="https://
 ![](https://github-profile-trophy.vercel.app/?username=ShamanErmita&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=YourQuote&author=BruceLee )](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
