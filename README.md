@@ -6,9 +6,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/xUPGchAIaUs1cGL0S4/giphy.gif" width="600" height="300"/>
 </div>
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShamanErmita&style=flat-square&color=blue" alt=""/><br>
-</div>
 
 ### 👨‍💻About Me :
 I am a Computer Science and Engineering student from Portugal <img src="https://media.giphy.com/media/AfuIjJ0aq4UNrtlloC/giphy.gif" width="20">
@@ -29,4 +26,7 @@ I am a Computer Science and Engineering student from Portugal <img src="https://
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
+<p align="center">
 [![](https://visitcount.itsvg.in/api?id=ShamanErmita&icon=0&color=0)](https://visitcount.itsvg.in)
+</p>
+
