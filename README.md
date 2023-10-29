@@ -25,7 +25,13 @@ I am a Computer Science and Engineering student from Portugal <img src="https://
 ### ✍️ Quotes
 [![Quote1](https://quotes-github-readme.vercel.app/api?type=horizontal&&border=true&theme=dark&quote=Ever%20since%20I%20was%20a%20child%20I%20have%20had%20this%20instinctive%20urge%20for%20expansion%20and%20growth.%20To%20me,%20the%20function%20and%20duty%20of%20a%20quality%20human%20being%20is%20the%20sincere%20and%20honest%20development%20of%20one's%20potential.&author=Bruce%20Lee)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[[](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Potential%20is%20only%20the%20expression%20of%20a%20possibility,%20something%20that%20could%20be%20assessed%20accurately%20only%20in%20retrospect%20in%20other%20words,%20you'll%20never%20know%20how%20good%20you%20might%20have%20become%20unless%20you%20try.&author=Mike%20Mentzer)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Potential%20is%20only%20the%20expression%20of%20a%20possibility,%20something%20that%20could%20be%20assessed%20accurately%20only%20in%20retrospect%20in%20other%20words,%20you'll%20never%20know%20how%20good%20you%20might%20have%20become%20unless%20you%20try.&author=Mike%20Mentzer)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<div style="margin-bottom: 20px;">
+  [![Quote1](https://quotes-github-readme.vercel.app/api?type=horizontal&&border=true&theme=dark&quote=Ever%20since%20I%20was%20a%20child%20I%20have%20had%20this%20instinctive%20urge%20for%20expansion%20and%20growth.%20To%20me,%20the%20function%20and%20duty%20of%20a%20quality%20human%20being%20is%20the%20sincere%20and%20honest%20development%20of%20one's%20potential.&author=Bruce%20Lee)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Potential%20is%20only%20the%20expression%20of%20a%20possibility,%20something%20that%20could%20be%20assessed%20accurately%20only%20in%20retrospect%20in%20other%20words,%20you'll%20never%20know%20how%20good%20you%20might%20have%20become%20unless%20you%20try.&author=Mike%20Mentzer)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
+
 
 ---
 <p align="center">
