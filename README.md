@@ -26,7 +26,7 @@ I am a Computer Science and Engineering student from Portugal <img src="https://
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&?quote=YourQuote&author=BruceLee )](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=YourQuote&author=BruceLee )](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 <p align="center">
