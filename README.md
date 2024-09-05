@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXYyN2ZweXR1am5xNTZhaGFvMnpzY3dmN2lhZHJnbXQ2Z2h1MXZ5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TMX9zs9UINkuRR4YMR/giphy.gif" width="100"/>
-  <h2 align="center">Bruno Duarte</h2>
+  Bruno Duarte
 </div>
 
 ## 👨‍💻About Me :
