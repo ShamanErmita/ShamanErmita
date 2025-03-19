@@ -8,7 +8,7 @@ I am a Computer Science/Computer Engineering student from Portugal <img src="htt
 
 ## 🐱‍🐉Hobbies : 
 - Working out 🗿
-- Trying to make Beats 🎵
+- Playing Video Games 💻
 - Making Videos 🎥
 - Hang out with friends and family 👨‍👩‍👧‍👦
 - Learning new Stuff 📚
